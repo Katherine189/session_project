@@ -11,8 +11,8 @@ class DB{
     public function __construct(){
         $this->host     = 'localhost';
         $this->db       = 'desarrolloWeb';
-        $this->user     = 'root';
-        $this->password = "1234";
+        $this->user     = 'katherine';
+        $this->password = "123456";
         $this->charset  = 'utf8mb4';
         $this->port     = 3307;
     }
