@@ -1,0 +1,72 @@
+*{
+    margin: 0 auto;
+  
+
+
+}
+  
+body{
+    background-image: url('./imagen/bdd.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.main-grid{
+    width: 40%;
+    padding: 60px; 
+    background-color: #070525;
+    margin: 0 auto;
+    border: 2px solid  #edeef0;
+    height: auto;
+    padding-left: 35px;
+    background-image: url('./imagen/images.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+   
+#label{
+    padding-left: 25px;
+
+    padding: 15px 15px;
+    color: rgb(5, 5, 80);
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
+
+input {
+    padding: 5px;
+    width: 40%;
+    background-color: #edeef0;
+    color: black;
+    border: 2px solid  #edeef0;
+   
+}
+
+#titulo{
+    font-size: 45px;
+    color: rgb(252, 252, 253);
+    text-decoration: double;
+    padding-top: 25%;
+    padding: 35px;
+    padding-left: 35px;
+    height: 50px;
+    text-align: center;
+
+}
+
+
+#button_submit{
+    color: rgb(17, 4, 134);
+    height: 40px;
+    width: 20%;
+    text-align: center;
+}
+
+
